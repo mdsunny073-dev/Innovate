@@ -33,3 +33,7 @@ pids
 # OS-specific
 Thumbs.db
   
+node_modules
+build
+.DS_Store
+.env
